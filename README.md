@@ -19,3 +19,6 @@ chmod 600 shell-keypair.pem
 ```
 ssh -i shell-keypair.pem ec2-user@xxx.xxx.xxx.xxx
 ```
+
+## 参考
+- [AWS入門：Terraformで構築したEC2環境にSSH接続する](https://yossi-note.com/ssh_connection_to_the_ec2_environment_built_with_terraform/)
