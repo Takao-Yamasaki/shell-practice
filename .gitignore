@@ -1,0 +1,5 @@
+shell-keypair.pem
+.terraform
+terraform.state
+terraform.tfstate.backup
+.terraform.lock.hcl
